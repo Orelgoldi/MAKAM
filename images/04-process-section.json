@@ -1,0 +1,116 @@
+{
+  "marketing_image": {
+    "meta": {
+      "spec_version": "1.0.0",
+      "title": "AI Pilot Process - Step by Step",
+      "campaign": "ai_implementation_services",
+      "brand_name": "AI Pro",
+      "usage_context": "web_section_illustration"
+    },
+    "subject": {
+      "type": "conceptual_scene",
+      "name": "4-Step AI Implementation Journey",
+      "variant": "process_visualization",
+      "physical_properties": {
+        "scene_type": "abstract isometric path",
+        "dimensions": "landscape wide banner",
+        "finish": "clean, modern, tech"
+      }
+    },
+    "props": {
+      "foreground": [
+        {
+          "type": "illuminated_pathway",
+          "count": 1,
+          "position": "center, spanning left to right",
+          "notes": "A glowing translucent pathway/road that winds from left to right through four stations. The path glows with a gradient from purple (start) to cyan (end). Each station has a floating platform with a holographic icon above it."
+        },
+        {
+          "type": "station_1_diagnosis",
+          "count": 1,
+          "position": "far left on the path",
+          "notes": "A floating hexagonal platform with a holographic magnifying glass/scan icon above it. Represents diagnosis and mapping phase. Subtle purple glow."
+        },
+        {
+          "type": "station_2_calibration",
+          "count": 1,
+          "position": "center-left on the path",
+          "notes": "A floating hexagonal platform with a holographic gear/settings icon above it. Represents calibration and customization. Purple-blue glow."
+        },
+        {
+          "type": "station_3_implementation",
+          "count": 1,
+          "position": "center-right on the path",
+          "notes": "A floating hexagonal platform with a holographic people/team icon above it. Represents team implementation. Blue-cyan glow."
+        },
+        {
+          "type": "station_4_results",
+          "count": 1,
+          "position": "far right on the path",
+          "notes": "A floating hexagonal platform with a holographic upward chart/trophy icon above it. Represents measurement and success. Bright cyan glow with sparkles."
+        }
+      ],
+      "midground": [
+        {
+          "type": "connecting_light_beams",
+          "count": 3,
+          "position": "between each station",
+          "notes": "Elegant arcing light beams connecting each station to the next. The beams pulse with traveling light particles showing progression."
+        }
+      ],
+      "background": [
+        {
+          "type": "abstract_dark_space",
+          "count": 1,
+          "position": "full background",
+          "notes": "Deep dark blue-black space with subtle star-like particles and a soft nebula glow. Professional and futuristic."
+        }
+      ]
+    },
+    "environment": {
+      "surface": {
+        "material": "none - floating isometric view",
+        "reflection_strength": 0
+      },
+      "background": {
+        "color": "#080820",
+        "texture": "subtle particle field",
+        "effect": "soft_nebula"
+      },
+      "atmosphere": {
+        "mood": "progressive, clear, methodical, inspiring, journey",
+        "keywords": ["process", "steps", "journey", "progress", "methodology", "clear path"]
+      }
+    },
+    "camera": {
+      "angle": "three_quarter_front",
+      "framing": "wide",
+      "focal_length_mm": 28,
+      "depth_of_field": "deep"
+    },
+    "lighting": {
+      "key_light_direction": "top",
+      "key_light_intensity": "medium",
+      "fill_light_direction": "front",
+      "fill_light_intensity": "low",
+      "rim_light": false,
+      "color_temperature": "cool",
+      "accent_lights": [
+        {"color": "#6C5CE7", "direction": "left", "intensity": "medium"},
+        {"color": "#00D2FF", "direction": "right", "intensity": "medium"}
+      ]
+    },
+    "brand": {
+      "primary_colors": ["#6C5CE7", "#A29BFE", "#00D2FF", "#080820"],
+      "forbidden_changes": [
+        "keep_dark_background",
+        "maintain_gradient_left_to_right_purple_to_cyan"
+      ]
+    },
+    "controls": {
+      "lock_subject_geometry": false,
+      "allow_background_variation": true,
+      "allow_prop_relayout": "small_only"
+    }
+  }
+}

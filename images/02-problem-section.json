@@ -1,0 +1,99 @@
+{
+  "marketing_image": {
+    "meta": {
+      "spec_version": "1.0.0",
+      "title": "AI Failure in Organizations - Problem Visual",
+      "campaign": "ai_implementation_services",
+      "brand_name": "AI Pro",
+      "usage_context": "web_section_illustration"
+    },
+    "subject": {
+      "type": "conceptual_scene",
+      "name": "Broken AI Implementation",
+      "variant": "frustrated_enterprise",
+      "physical_properties": {
+        "scene_type": "abstract conceptual",
+        "dimensions": "square composition",
+        "finish": "moody, dramatic"
+      }
+    },
+    "props": {
+      "foreground": [
+        {
+          "type": "shattered_holographic_screen",
+          "count": 3,
+          "position": "center",
+          "notes": "Cracked or glitching holographic dashboard screens with red warning indicators, error messages, and frozen loading bars. The screens are tilted at angles, some partially fading out."
+        },
+        {
+          "type": "disconnected_puzzle_pieces",
+          "count": 5,
+          "position": "scattered around base",
+          "notes": "Glowing geometric puzzle pieces that don't fit together, floating and separated. Representing fragmented AI strategy. Purple and red tones."
+        }
+      ],
+      "midground": [
+        {
+          "type": "tangled_data_streams",
+          "count": 1,
+          "position": "center",
+          "notes": "Data light streams that are knotted and tangled instead of flowing smoothly. Some streams end abruptly. Representing chaotic AI implementations."
+        }
+      ],
+      "background": [
+        {
+          "type": "dark_void",
+          "count": 1,
+          "position": "full background",
+          "notes": "Deep dark gradient from navy to black with subtle red-orange glow at the bottom suggesting burning resources."
+        }
+      ]
+    },
+    "environment": {
+      "surface": {
+        "material": "dark matte",
+        "reflection_strength": 0.2
+      },
+      "background": {
+        "color": "#0A0510",
+        "texture": "dark gradient with subtle noise",
+        "effect": "vignette_heavy"
+      },
+      "atmosphere": {
+        "mood": "warning, urgency, frustration, wasted potential",
+        "keywords": ["failure", "broken", "tangled", "chaos", "warning", "cost"]
+      }
+    },
+    "camera": {
+      "angle": "front",
+      "framing": "medium",
+      "focal_length_mm": 35,
+      "depth_of_field": "shallow"
+    },
+    "lighting": {
+      "key_light_direction": "top",
+      "key_light_intensity": "medium",
+      "fill_light_direction": "front",
+      "fill_light_intensity": "very_low",
+      "rim_light": true,
+      "rim_light_color": "#FF6B6B",
+      "color_temperature": "cool",
+      "accent_lights": [
+        {"color": "#FF6B6B", "direction": "right", "intensity": "low"},
+        {"color": "#FF8E53", "direction": "left", "intensity": "low"}
+      ]
+    },
+    "brand": {
+      "primary_colors": ["#FF6B6B", "#FF8E53", "#0A0510"],
+      "forbidden_changes": [
+        "do_not_make_cheerful",
+        "keep_dark_moody_aesthetic"
+      ]
+    },
+    "controls": {
+      "lock_subject_geometry": false,
+      "allow_background_variation": true,
+      "allow_prop_relayout": "small_only"
+    }
+  }
+}

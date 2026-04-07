@@ -1,0 +1,100 @@
+{
+  "marketing_image": {
+    "meta": {
+      "spec_version": "1.0.0",
+      "title": "AI Transformation CTA - Contact Section Background",
+      "campaign": "ai_implementation_services",
+      "brand_name": "AI Pro",
+      "usage_context": "web_cta_background"
+    },
+    "subject": {
+      "type": "conceptual_scene",
+      "name": "Bridge to AI Success",
+      "variant": "inspiring_gateway",
+      "physical_properties": {
+        "scene_type": "abstract futuristic gateway",
+        "dimensions": "landscape wide",
+        "finish": "premium, atmospheric, cinematic"
+      }
+    },
+    "props": {
+      "foreground": [
+        {
+          "type": "glowing_gateway_arch",
+          "count": 1,
+          "position": "center",
+          "notes": "A large luminous arch/portal made of flowing light beams in cyan and purple. The arch frames a bright, promising horizon beyond it. Represents the gateway to successful AI transformation."
+        }
+      ],
+      "midground": [
+        {
+          "type": "light_particles",
+          "count": 100,
+          "position": "flowing through the gateway",
+          "notes": "Streams of glowing particles moving through the gateway toward the bright horizon. Represents data and opportunity flowing forward."
+        },
+        {
+          "type": "stepping_stones",
+          "count": 5,
+          "position": "leading up to the gateway",
+          "notes": "Floating translucent hexagonal platforms creating a path toward the gateway. Each one glows slightly brighter as it gets closer to the arch."
+        }
+      ],
+      "background": [
+        {
+          "type": "bright_horizon",
+          "count": 1,
+          "position": "beyond the gateway",
+          "notes": "A warm glow on the horizon beyond the gateway, contrasting with the dark foreground. Represents the promise of successful AI implementation. Soft white-cyan glow."
+        }
+      ]
+    },
+    "environment": {
+      "surface": {
+        "material": "reflective dark glass",
+        "reflection_strength": 0.4
+      },
+      "background": {
+        "color": "#050515",
+        "texture": "smooth dark gradient",
+        "effect": "atmospheric_haze"
+      },
+      "atmosphere": {
+        "mood": "hopeful, inspiring, transformative, beckoning, premium",
+        "keywords": ["gateway", "opportunity", "transformation", "future", "invitation", "next step"]
+      }
+    },
+    "camera": {
+      "angle": "front",
+      "framing": "wide",
+      "focal_length_mm": 20,
+      "depth_of_field": "deep"
+    },
+    "lighting": {
+      "key_light_direction": "back",
+      "key_light_intensity": "high",
+      "fill_light_direction": "front",
+      "fill_light_intensity": "very_low",
+      "rim_light": true,
+      "rim_light_color": "#00D2FF",
+      "color_temperature": "cool",
+      "accent_lights": [
+        {"color": "#6C5CE7", "direction": "right", "intensity": "medium"},
+        {"color": "#00D2FF", "direction": "left", "intensity": "medium"},
+        {"color": "#FFFFFF", "direction": "back", "intensity": "high"}
+      ]
+    },
+    "brand": {
+      "primary_colors": ["#6C5CE7", "#00D2FF", "#050515"],
+      "forbidden_changes": [
+        "keep_dark_foreground",
+        "keep_bright_hopeful_background"
+      ]
+    },
+    "controls": {
+      "lock_subject_geometry": false,
+      "allow_background_variation": true,
+      "allow_prop_relayout": "small_only"
+    }
+  }
+}

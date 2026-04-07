@@ -1,0 +1,107 @@
+{
+  "marketing_image": {
+    "meta": {
+      "spec_version": "1.0.0",
+      "title": "AI Implementation Landing Page Hero",
+      "campaign": "ai_implementation_services",
+      "brand_name": "AI Pro",
+      "usage_context": "web_hero_banner"
+    },
+    "subject": {
+      "type": "conceptual_scene",
+      "name": "Futuristic AI-Powered Office",
+      "variant": "collaborative_workspace",
+      "physical_properties": {
+        "scene_type": "interior office environment",
+        "dimensions": "wide panoramic scene",
+        "finish": "ultra-modern, minimalist"
+      }
+    },
+    "props": {
+      "foreground": [
+        {
+          "type": "holographic_dashboard",
+          "count": 2,
+          "position": "center_left and center_right",
+          "notes": "Transparent floating holographic UI screens showing data charts, KPI metrics, and AI neural network visualizations. Glowing cyan and purple edges. Hebrew text elements on some screens."
+        },
+        {
+          "type": "business_professionals",
+          "count": 3,
+          "position": "center",
+          "notes": "Two men and one woman in smart business attire, standing around a futuristic glass table, collaborating. One gestures toward a holographic display. Diverse, confident, mid-30s to 40s. Silhouette-like, slightly abstracted."
+        }
+      ],
+      "midground": [
+        {
+          "type": "ai_neural_network_visualization",
+          "count": 1,
+          "position": "floating above the table",
+          "notes": "A luminous 3D neural network graph with glowing nodes connected by light beams, hovering above the workspace. Cyan and purple glow."
+        },
+        {
+          "type": "data_stream_particles",
+          "count": 50,
+          "position": "scattered in air",
+          "notes": "Tiny glowing data particles and light trails flowing between the holographic screens, suggesting data movement and AI processing."
+        }
+      ],
+      "background": [
+        {
+          "type": "modern_office_cityscape",
+          "count": 1,
+          "position": "behind glass wall",
+          "notes": "Floor-to-ceiling glass windows revealing a blurred nighttime city skyline with soft bokeh lights. Deep navy blue tones."
+        }
+      ]
+    },
+    "environment": {
+      "surface": {
+        "material": "polished dark glass floor",
+        "reflection_strength": 0.5
+      },
+      "background": {
+        "color": "#0A0A2E",
+        "texture": "smooth gradient to deep navy",
+        "effect": "bokeh_soft with city lights"
+      },
+      "atmosphere": {
+        "mood": "innovative, trustworthy, cutting-edge, business transformation",
+        "keywords": ["futuristic", "AI", "collaboration", "enterprise", "technology", "data-driven", "professional", "premium"]
+      }
+    },
+    "camera": {
+      "angle": "three_quarter_front",
+      "framing": "wide",
+      "focal_length_mm": 24,
+      "depth_of_field": "medium"
+    },
+    "lighting": {
+      "key_light_direction": "front",
+      "key_light_intensity": "medium",
+      "fill_light_direction": "left",
+      "fill_light_intensity": "low",
+      "rim_light": true,
+      "rim_light_color": "#00D2FF",
+      "color_temperature": "cool",
+      "accent_lights": [
+        {"color": "#6C5CE7", "direction": "right", "intensity": "medium"},
+        {"color": "#00D2FF", "direction": "left", "intensity": "medium"}
+      ]
+    },
+    "brand": {
+      "primary_colors": ["#6C5CE7", "#00D2FF", "#0A0A1A"],
+      "forbidden_changes": [
+        "do_not_use_warm_colors",
+        "do_not_make_it_bright_or_cheerful",
+        "keep_dark_tech_aesthetic"
+      ]
+    },
+    "controls": {
+      "lock_subject_geometry": false,
+      "lock_logo_and_label": false,
+      "allow_background_variation": true,
+      "allow_prop_relayout": "small_only"
+    }
+  }
+}

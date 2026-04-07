@@ -1,0 +1,107 @@
+{
+  "marketing_image": {
+    "meta": {
+      "spec_version": "1.0.0",
+      "title": "AI Implementation Solution - Professional Guidance",
+      "campaign": "ai_implementation_services",
+      "brand_name": "AI Pro",
+      "usage_context": "web_section_illustration"
+    },
+    "subject": {
+      "type": "conceptual_scene",
+      "name": "Successful AI Integration",
+      "variant": "guided_transformation",
+      "physical_properties": {
+        "scene_type": "abstract conceptual with human elements",
+        "dimensions": "landscape composition 16:9",
+        "finish": "clean, premium, optimistic tech"
+      }
+    },
+    "props": {
+      "foreground": [
+        {
+          "type": "connected_nodes_network",
+          "count": 1,
+          "position": "center",
+          "notes": "A beautifully organized 3D network of glowing nodes connected by smooth light paths. The nodes represent different business functions: sales, operations, HR, customer service. Each node glows cyan/purple and is labeled with a small icon. The network is symmetrical and elegant."
+        },
+        {
+          "type": "ascending_growth_chart",
+          "count": 1,
+          "position": "right side",
+          "notes": "A holographic 3D bar chart showing clear upward growth trend. Bars glow in gradient from purple to cyan. Smooth, polished look."
+        }
+      ],
+      "midground": [
+        {
+          "type": "human_hand_guiding",
+          "count": 1,
+          "position": "left side",
+          "notes": "A professional hand reaching out, touching one of the network nodes, activating it. Light emanates from the touch point. Representing human-guided AI implementation."
+        },
+        {
+          "type": "flowing_data_streams",
+          "count": 20,
+          "position": "flowing between nodes",
+          "notes": "Smooth, organized streams of light/data flowing between the connected nodes. Unlike the tangled streams in the problem image, these are orderly and beautiful."
+        }
+      ],
+      "background": [
+        {
+          "type": "gradient_abstract",
+          "count": 1,
+          "position": "full background",
+          "notes": "Deep dark blue gradient with subtle geometric grid pattern. Clean and professional. Subtle aurora-like glow at the top."
+        }
+      ]
+    },
+    "environment": {
+      "surface": {
+        "material": "none - floating in space",
+        "reflection_strength": 0
+      },
+      "background": {
+        "color": "#0A0A2E",
+        "texture": "subtle geometric grid",
+        "effect": "aurora_top_glow"
+      },
+      "atmosphere": {
+        "mood": "confident, organized, transformative, premium, hopeful",
+        "keywords": ["solution", "order", "growth", "connection", "guidance", "success", "professional"]
+      }
+    },
+    "camera": {
+      "angle": "three_quarter_front",
+      "framing": "medium_wide",
+      "focal_length_mm": 35,
+      "depth_of_field": "medium"
+    },
+    "lighting": {
+      "key_light_direction": "front",
+      "key_light_intensity": "medium",
+      "fill_light_direction": "left",
+      "fill_light_intensity": "low",
+      "rim_light": true,
+      "rim_light_color": "#00D2FF",
+      "color_temperature": "cool",
+      "accent_lights": [
+        {"color": "#6C5CE7", "direction": "right", "intensity": "medium"},
+        {"color": "#00D2FF", "direction": "left", "intensity": "medium"},
+        {"color": "#A29BFE", "direction": "top", "intensity": "low"}
+      ]
+    },
+    "brand": {
+      "primary_colors": ["#6C5CE7", "#00D2FF", "#A29BFE", "#0A0A2E"],
+      "forbidden_changes": [
+        "do_not_use_warm_colors",
+        "keep_dark_tech_aesthetic",
+        "maintain_premium_feel"
+      ]
+    },
+    "controls": {
+      "lock_subject_geometry": false,
+      "allow_background_variation": true,
+      "allow_prop_relayout": "small_only"
+    }
+  }
+}
